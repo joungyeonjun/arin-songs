@@ -1,0 +1,1 @@
+export const IconSleep = () => <>💤</>; export const IconRattle = () => <>🍼</>; export const IconBear = () => <>🧸</>; export const IconChat = () => <>💬</>; export const IconMic = () => <>🎤</>; export const IconNotes = () => <>🎵</>;
